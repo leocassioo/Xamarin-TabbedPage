@@ -6,7 +6,7 @@
 
 		<StackLayout Padding="25" >
 
-		<Label Text="Segunda tela hue" />
+		<Label Text="Segunda tela!" FontSize="25" />
 
 	</StackLayout>
 </ContentPage>

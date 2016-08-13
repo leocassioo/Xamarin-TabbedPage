@@ -6,7 +6,7 @@
 		Title="Primeira Tela">
 
 		<StackLayout Padding="25">
-			<Label Text="Primeira tela hue" />
+			<Label Text="Primeira tela! " FontSize="25"/>
 	</StackLayout>
 	
 </ContentPage>
