@@ -1,5 +1,5 @@
 # Tabbed Page com Xamarin.Forms
-Testando a criação de App’s Mobile com diferentes tipos de navegação com Xamarin.Forms.
+Criação de App’s Mobile com diferentes tipos de navegação com Xamarin.Forms.
 
 ## Tabbed Page
 A TabbedPage consiste em uma lista de guias e uma área de maior detalhe, 
